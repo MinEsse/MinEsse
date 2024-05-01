@@ -1,6 +1,6 @@
 ### Hi I'm Sara
 
-- 🌱 I’m currently learning: HTML, CSS, JS
+- 🌱 Currently learning: HTML, CSS, JS, PHP
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 🥃 Whisky addicted, 🎮 gamer, little bit nerd
 
